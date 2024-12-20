@@ -45,7 +45,7 @@ While we've successfully integrated LLMs with the Genesis physics engine, there 
 pip install genesis-world
 pip install -r requirements.txt
 
-# Set up environment variables
+# Set up environment
 conda create gen-app python=3.10
 
 conda activate gen-app
@@ -53,6 +53,33 @@ conda activate gen-app
 
 # Run Proteus
 python3 llm_physics_runner.py
+```
+
+## ENV Example:
+```
+# LLM Settings
+OPENAI_MODEL_NAME=your-model-name-here
+OPENAI_BASE_URL=your-base-url-here
+LLM_TEMPERATURE=0.5
+LLM_MAX_TOKENS=8192
+OPENAI_API_KEY=your-api-key-here  
+
+# Genesis Physics Settings
+GENESIS_BACKEND=metal  # Options: metal (Apple Silicon), gpu (NVIDIA), cpu
+GENESIS_PRECISION=32
+GENESIS_LOGGING_LEVEL=debug
+GENESIS_ASSETS_PATH=./assets
+
+# Visualization Settings
+VIS_CAMERA_RES=(1280, 720)
+VIS_CAMERA_FOV=60
+VIS_SHOW_WORLD_FRAME=true
+VIS_MAX_FPS=60
+
+# Physics Settings
+PHYSICS_GRAVITY=(0, 0, -9.8)
+PHYSICS_SUBSTEPS=10
+PHYSICS_ROOM_BOUNDS=(-5, -5, -5, 5, 5, 5)
 ```
 
 ## Example Interactions
