@@ -1,7 +1,8 @@
 <div align="center">
+  <img src="assets/proteus.png" alt="Proteus" width="300px"/>
   <h1>Proteus</h1>
   <h3>An LLM-powered physics reasoning engine built on Genesis</h3>
-
+  
   <p><i>Enabling large language models to think, reason, and exist in 4D physical space</i></p>
 </div>
 
