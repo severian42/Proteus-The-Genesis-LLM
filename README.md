@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/proteus.png" alt="Proteus" width="300px"/>
+  <img src="assets/proteus2.png" alt="Proteus" width="300px"/>
   <h1>Proteus</h1>
   <h3>An LLM-powered physics reasoning engine built on Genesis</h3>
   
