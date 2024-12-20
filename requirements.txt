@@ -1,0 +1,29 @@
+# Core dependencies
+genesis-world  
+numpy  
+torch     
+taichi  
+python-dotenv
+openai
+requests
+
+# Optional but recommended
+opencv-python 
+pillow       
+matplotlib    
+tqdm       
+pyyaml     
+
+# Development dependencies
+black      
+isort    
+pylint      
+pytest      
+
+# Logging and debugging
+rich
+loguru     
+
+# API and networking
+fastapi 
+uvicorn 
