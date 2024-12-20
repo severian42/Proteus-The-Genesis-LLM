@@ -353,7 +353,7 @@ This project is licensed under Apache 2.0. See LICENSE for details.
   author = {Beckett Dillon},
   title = {Proteus: Embodied Physics Reasoning for Large Language Models},
   year = {2024},
-  url = {https://github.com/severian42/proteus}
+  url = {https://github.com/severian42/Proteus-The-Genesis-LLM}
 }
 ```
 
