@@ -215,71 +215,7 @@ The LLM can take on different forms in the physics room:
 ```python
 # Start Proteus
 python3 llm_physics_runner.py
-
-# Example interactions:
-### Example Interactions
-
-```python
-# Basic Physics Demonstrations
-"Show me how gravitational forces work between objects of different masses"
-"Create a pendulum system and explain how energy conservation works"
-"Demonstrate wave interference using particles in the physics room"
-
-# Creative Physics Problems
-"If you were trying to solve the traveling salesman problem, how would you use physics to find a solution?"
-"Create a physical representation of a neural network using objects in the room"
-"Show me how you would sort numbers using gravity and different mass objects"
-
-# Quantum/Advanced Concepts
-"What would it be like to be a wave function? Show me using the physics room"
-"Can you become a black hole and demonstrate how spacetime curvature works?"
-"Transform the room into a representation of consciousness using physical objects"
-
-# Biological/Chemical Systems
-"Create a Rube Goldberg machine that represents the process of photosynthesis"
-"Build a physical system that demonstrates how information flows in a computer"
-"Show me how evolution works using physical objects and forces"
-
-# Computational Physics
-"Using only spheres and gravity, create a clock"
-"Design a physical mechanism that can compute basic arithmetic"
-"Create a system that can encode and decode binary information using physics"
-
-# Emergent Behavior
-"Can you demonstrate how complex patterns emerge from simple rules using particles?"
-"Show me how flocking behavior works using multiple objects"
-"Create a physical representation of a cellular automaton"
-
-# Higher Dimensions
-"How would you represent time as a physical dimension in the room?"
-"Show me what a 4D hypercube would look like as it intersects our 3D space"
-"Demonstrate how higher dimensional rotation works using 3D projections"
-
-# Musical/Artistic Physics
-"Show me what music would look like if it was a physical structure in this space"
-"Create a physical representation of color theory using particle interactions"
-"Demonstrate how harmony works using wave interference patterns"
-
-# Information Theory
-"Show me how entropy looks in a physical system"
-"Create a demonstration of Shannon information using particle dynamics"
-"Build a physical model of error correction in quantum computing"
-
-# Cognitive Science
-"Create a physical model of how memory works in the brain"
-"Show me how neural plasticity might look in physical space"
-"Demonstrate the concept of attention using particle dynamics"
 ```
-
-These examples showcase how Proteus can be used to:
-- Visualize abstract concepts
-- Solve computational problems through physics
-- Explore higher-dimensional phenomena
-- Model complex systems
-- Bridge different domains of knowledge
-- Create novel physical metaphors
-- Experience quantum concepts classically
-
 
 ### Code Generation Guidelines
 
