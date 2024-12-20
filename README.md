@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Proteus</h1>
   <h3>An LLM-powered physics reasoning engine built on Genesis</h3>
-  
+  ![proteus](https://github.com/user-attachments/assets/5868e953-933e-42a6-8272-3abd9c8d3481)
+
   <p><i>Enabling large language models to think, reason, and exist in 4D physical space</i></p>
 </div>
 
